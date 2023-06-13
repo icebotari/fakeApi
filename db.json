@@ -1,24 +1,24 @@
 {
   "users": [
     {
-      id: 1,
-      name: 'Alex',
-      age: 18
+      "id": 1,
+      "name": 'Alex',
+      "age": 18
     },
     {
-      id: 2,
-      name: 'Tom',
-      age: 19
+      "id": 2,
+      "name": 'Tom',
+      "age": 19
     },
     {
-      id: 1,
-      name: 'Anna',
-      age: 25
+      "id": 1,
+      "name": 'Anna',
+      "age": 25
     },
     {
-      id: 1,
-      name: 'Victoria',
-      age: 23
+      "id": 1,
+      "name": 'Victoria',
+      "age": 23
     }
    ]
 }
