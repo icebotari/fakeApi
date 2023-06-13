@@ -1,4 +1,3 @@
-users: [
   {
     id: 1,
     name: 'Alex',
@@ -19,4 +18,3 @@ users: [
     name: 'Victoria',
     age: 23
   }
-]
