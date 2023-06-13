@@ -2,22 +2,22 @@
   "users": [
     {
       "id": 1,
-      "name": 'Alex',
+      "name": "Alex",
       "age": 18
     },
     {
       "id": 2,
-      "name": 'Tom',
+      "name": "Tom",
       "age": 19
     },
     {
       "id": 1,
-      "name": 'Anna',
+      "name": "Anna",
       "age": 25
     },
     {
       "id": 1,
-      "name": 'Victoria',
+      "name": "Victoria",
       "age": 23
     }
    ]
